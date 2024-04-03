@@ -1,0 +1,40 @@
+- 현재 정해진 것
+	- Jonsbo N2 케이스를 주력사용
+- 차별점은 무엇인가?
+	- 유연한 조합성/확장성
+	- 저소음
+- UnRaid Prebuilt 제품의 기준을 세워야 한다.
+	- 조립PC 판매와 같이 모든 옵션을 모두 열어둘 것인가?
+		- 초기이기에 만약 완전 옵션으로 간다면
+			- 조립을 도와주고 세팅과 도커교육까지 해 준다고 광고
+			- 조립비 10만원
+			- 기본도커 설치 및 원격 교육비 20만
+			- 방문 설치 및 세팅이라면 추가 20만(수도권)
+			- 상기 가격은 모두 미정
+	- 기본으로 설치하고 교육해 줄 Docker는 어떤 것들인가?
+		- 그래서 현재 NextCloud 실증을 하고 있음
+	- 보안은 어떻게 강화할 것인가?
+- 보드선택 고민
+	- Low Performance
+		- N100 / N200
+	- High Performance
+- 동하 경험
+	- J5105의 UnRaid
+		- 전체적 사용 경험
+		- VM & Docker 활용성
+- SSD 어레이
+	- [[UNRAID SSD|UNRAID SSD]]
+- 기타
+	- CASE
+		- Jonsbo N3
+		- [ZhenLong](https://www.aliexpress.com/item/1005004683211530.html?channel=twinner) 15 HDD
+	- DIY 참고
+		- [중국인 유튜버](https://youtu.be/J8rVga8-gYE?si=-QG7SDi1Yuhgpg-7)
+- ExRaid 준비
+	- [[ExRaid Prebuilt Development|ExRaid Prebuilt Development]]
+	- [[Unraid의 장점|Unraid의 장점]]
+- 초기문서
+	- [[NAS 제작소|NAS 제작소]]
+	- [[NAS 환경에서의 랜과 썬더볼트|NAS 환경에서의 랜과 썬더볼트]]
+- [[Mjni Coms|Mjni Coms]]
+- 
