@@ -1,0 +1,25 @@
+- 야심찬 중국 전자 액서세리 회사의 도전
+- UGREEN은 품질면에서 BASEUS를 뛰어 넘었다고 평가받을 정도의 입지를 갖고 있는 회사이다
+	- 나무위키
+	- 유튜브 리뷰어들이 하나같이 알루미늄 알로이 외관에 높은 점수를 주고 있음
+- 1차 경쟁상대는 Synology
+	- [PetaPixel](https://petapixel.com/2024/03/26/ugreen-to-challenge-synology-with-affordable-series-of-nas-hardware/)
+		- [UnRaid 언급 댓글](https://i.imgur.com/ssddPXC.png)
+- 분명히 UnRaid도 의식하고 있다고 느껴지는 이유
+	- UnRaid의 바뀌기 전의 슬로건이 "Unleash Your Hardware"였는데, UGREEN도 Unleash라는 단어를 사용함
+- 장점
+	- 최근 CPU & HW
+		- 성능과 전성비 아주 좋음
+		- DDR5
+	- 현재의 킥스타터 할인을 적용한다면 가성비 좋음
+		- 만약  할인율이 없어진다면 좋다고 할 수 있을까?
+	- 10Gb/2.5Gb 랜이 보드수준에서 지원
+	- 하드웨어 액서세리 회사의 저력으로 뛰어난 알루미늄 케이스
+- 단점
+	- 아직 미숙한 SW
+		- 윈도우에서 SMB 권한관리가 잘 안되고 있다고 함
+	- NAS는 신뢰도인데 역사 미흡
+	- Docker & VM 없음
+		- 곧 업데이트 된다고 함
+- 내 입장
+	- UnRaid 등 3rd 파티 OS를 깔 수 있도록 한다면 너무 좋을거 같다
