@@ -28,7 +28,7 @@
 		- Envista (US)
 		- Dentsply Sirona (US)
 		- Nobel (스웨덴)
-	- Cooperation with Ryu
+	- Cooperation
 		- 단순 판매할 기회 (외부 판매사)
 			- 좋은 가격
 			- 유기적 협업 (앱 제작을 선호)
