@@ -1,6 +1,10 @@
 - Questions...
-	- US-FDA인증 계획
-		- Abutment 먼저?
+	- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요?
+		- [오스템 pre-milled 광고](https://youtu.be/cA2zKad729M)
+		- [Y.웅플란트](https://youtu.be/a_a4r6dz7YU) 커스텀의 단점?[Pic.](https://i.imgur.com/2a323aB.jpeg)
+	- Custom Abutment 나사풀림 줄여주는 이유?.
+	- Abutment/Fixture를 디자인하는 CAD S/W?
+		- 혹시 Rhino?
 	- Compatible Product Lines
 		- 법적 문제는 없는지? 없다
 		- 오스템도 카피업체 / 표면처리 레서피
@@ -102,14 +106,6 @@
 	- 허가증 있는 업체 - 월 몇만개 (4개월 8만개) Fixture 2등급 제품 위주로...
 		- 외주를 주기 때문에 알게 됨
 		- 코로나 전후로 변화 큼
-- NND 회사 상황
-	- 계획
-		- 장비 1대 생산력 (현재 1대 운영중)
-			- 커스텀 50-80개 (늘려야한다)
-			- 기성 500-600개
-	- 직원 
-		- 9명 (10명)
-		- 3명 생산라인
 - 미디어
 	-  [LinkedIn 2024.3.13](https://www.linkedin.com/pulse/dental-implants-market-size-share-trends-analysis-report-hancock-nrakf/)
 - Fixture 진출
@@ -119,9 +115,30 @@
 	- 오스템
 		- [뉴스워커 24.10.21](https://www.newsworker.co.kr/news/articleView.html?idxno=352342)- # 촘촘해지는 판매 그물망
 	- 메가젠 
+	- 코웰메디
+		- SFIT [Y.](https://youtu.be/n0J9fsub_Fo) [Y.02](https://youtu.be/n0J9fsub_Fo?t=50m53s) [Per.](https://www.perplexity.ai/search/kowel-impeulranteuyi-s-fiteun-9YiJ8MP3Sb6GIFi8giHXXw)
 - 해외 임플란트 제조사
 	- Astra (스웨덴)
 		- 생체적합성과 치유속도를 강조 (높은 성공률?)
 	- Straumann
 		- [Y.닥터잇몸짱](https://youtu.be/Clt43r7jLOc)
-
+- Digital Dental System
+	- Modeling S/W
+		- https://instituteofdigitaldentistry.com/cad-cam/the-ultimate-guide-to-dental-cad-software-in-2024/
+		- [Cyfex](https://www.cyfex.com/en)
+			- Secret Ear Design
+		- Exo Cad
+			- [Y.Make Your Own Custom Abutment](https://youtu.be/fIJqxNKbKB4)
+- NND 회사 상황
+	- 계획
+		- 장비 1대 생산력 (현재 1대 운영중)
+			- 커스텀 50-80개 (늘려야한다)
+			- 기성 500-600개
+	- 직원 
+		- 9명 (10명)
+		- 3명 생산라인
+	-  [Financial Status](https://www.jobkorea.co.kr/Recruit/Co_Read/C/25262792?Oem_Code=C1)
+- Marketing
+	- 치기공소 리스트
+		- [행정안전부 고공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
+		- 
