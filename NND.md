@@ -1,5 +1,6 @@
 - Questions...
 	- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요?
+		- 기공소들 중 밀링 장비가 없는 곳의 주문을 받는거?
 		- [오스템 pre-milled 광고](https://youtu.be/cA2zKad729M)
 		- [Y.웅플란트](https://youtu.be/a_a4r6dz7YU) 커스텀의 단점?[Pic.](https://i.imgur.com/2a323aB.jpeg)
 	- Custom Abutment 나사풀림 줄여주는 이유?.
