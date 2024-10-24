@@ -88,7 +88,7 @@
 		- HS코드 - 9021.29.00
 		- 2년에서 5년
 		- 비용 7억에서 10억 (예전 2억) 자국보호주의
-		- 나노덴 이미 1등급 인증 등록
+		- NND 이미 1등급 인증 등록
 			- 드라이버류
 	- 언론
 		- Kotra - [중국 임플란트 시장동향](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=200725)
@@ -114,15 +114,11 @@
 	-  [LinkedIn 2024.3.13](https://www.linkedin.com/pulse/dental-implants-market-size-share-trends-analysis-report-hancock-nrakf/)
 - Fixture 진출
 	- 5-6억 투자필요 (세척기 등)
-
 - 국내 임플란트 제조사
 	- 브랜드 비교 [Y.미심치](https://youtu.be/3xYYx8VwX4o) [Y.최승원](https://youtu.be/GHsft8RbyJQ)
 	- 오스템
 		- [뉴스워커 24.10.21](https://www.newsworker.co.kr/news/articleView.html?idxno=352342)- # 촘촘해지는 판매 그물망
 	- 메가젠 
-		- 
-- 
-
 - 해외 임플란트 제조사
 	- Astra (스웨덴)
 		- 생체적합성과 치유속도를 강조 (높은 성공률?)
