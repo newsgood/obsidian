@@ -1,6 +1,11 @@
 - Questions...
 	- NND CFO 역할?
 		- KOSDAQ은 왜 가는가?
+	- Abutment/Fixture를 디자인하는 CAD S/W?
+		- 혹시 Rhino?
+	- 시공소 CAD는 ExoCad or 3Shape?
+		- 결국은 Ai가 
+	- MultiUnit Abutment는 어떻게 다른가?
 	- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요?
 		- CNC로 작업해야 하는 케이스만 아웃소싱?
 		- [오스템 pre-milled 광고](https://youtu.be/cA2zKad729M)
@@ -13,20 +18,16 @@
 				- External은 CNC 불가 < 음영이 들어가기 때문
 				- (오스템)SS는 Internal이기는 하지만 커넥션 부분이 안쪽으로 들어가는 부분도 있어서 External과 혼합이기에 곤란
 	- Custom Abutment 나사풀림 줄여주는 이유?.
-	- Abutment/Fixture를 디자인하는 CAD S/W?
-		- 혹시 Rhino?
 	- Compatible Product Lines
 		- 법적 문제는 없는지? 없다
 		- 오스템도 카피업체 / 표면처리 레서피
 	- Custom Abutment
-		- 국내 경쟁사 가격
-			- 2-2.5
+		- 국내 경쟁사 가격 2-2.5
 		- CNC/환봉>기공사
 	- Fixture와 Abutment의 HS코드는 다른가?
 		- 같은 것으로 보임
 		- HS코드는 관세를 위한것이고
 		- 각 나라의 FDA 레벨은 인증을 위한 것으로 이해?
-	- MultiUnit Abutment는 어떻게 다른가?
 	- 해외 OEM은 두드려 보았는가?
 		-  체코 등 (HS코드 902129 관세 0%)
 			- LASAK (임플란트)
@@ -140,6 +141,7 @@
 		- Exo Cad
 			- [Y.Make Your Own Custom Abutment](https://youtu.be/fIJqxNKbKB4)
 			- [Y.딜리버리](https://youtu.be/AmQOgvtdK2Y)
+			- [Download & Install](https://www.youtube.com/watch?v=wmU8ArsTvqc)
 - NND 회사 상황
 	- 계획
 		- 장비 1대 생산력 (현재 1대 운영중)
@@ -152,6 +154,7 @@
 - Marketing
 	- 치기공소 리스트
 		- [행정안전부 고공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
-- 치기공소
+- 치기공소 연구
 	- [지플란트](http://www.zplantlab.com/)
+- 
 
