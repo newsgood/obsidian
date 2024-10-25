@@ -1,8 +1,17 @@
 - Questions...
+	- NND CFO 역할?
+		- KOSDAQ은 왜 가는가?
 	- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요?
-		- 기공소들 중 밀링 장비가 없는 곳의 주문을 받는거?
+		- CNC로 작업해야 하는 케이스만 아웃소싱?
 		- [오스템 pre-milled 광고](https://youtu.be/cA2zKad729M)
 		- [Y.웅플란트](https://youtu.be/a_a4r6dz7YU) 커스텀의 단점?[Pic.](https://i.imgur.com/2a323aB.jpeg)
+		- CNC와 환봉 작업의 차이
+			- [Y.송카롱](https://youtu.be/bD6q49dy2vQ?si=mx1uO1fba5EdFLYY)
+			- 환봉
+			- CNC
+				- Scan시에는 더 좋음
+				- External은 CNC 불가 < 음영이 들어가기 때문
+				- (오스템)SS는 Internal이기는 하지만 커넥션 부분이 안쪽으로 들어가는 부분도 있어서 External과 혼합이기에 곤란
 	- Custom Abutment 나사풀림 줄여주는 이유?.
 	- Abutment/Fixture를 디자인하는 CAD S/W?
 		- 혹시 Rhino?
@@ -130,6 +139,7 @@
 			- Secret Ear Design
 		- Exo Cad
 			- [Y.Make Your Own Custom Abutment](https://youtu.be/fIJqxNKbKB4)
+			- [Y.딜리버리](https://youtu.be/AmQOgvtdK2Y)
 - NND 회사 상황
 	- 계획
 		- 장비 1대 생산력 (현재 1대 운영중)
@@ -142,4 +152,6 @@
 - Marketing
 	- 치기공소 리스트
 		- [행정안전부 고공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
-		- 
+- 치기공소
+	- [지플란트](http://www.zplantlab.com/)
+
