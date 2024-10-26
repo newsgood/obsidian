@@ -153,7 +153,7 @@
 			- Secret Ear Design
 	- 한국씨엔텍 [Y.](https://youtu.be/p54rzGg42RE)
 		- [학술회](https://i.imgur.com/TTmPnlG.png) [구인.01](https://www.wanted.co.kr/company/83ea37d1d80def955f946681eb433627c4f61ee9) [블로그](https://blog.naver.com/cnt-00243/222520786273) [P.백완 대표](https://i.imgur.com/1i2pU1O.jpeg)
-		- [P.Star SR-20RIV Type B](https://i.imgur.com/zCMyPRg.jpeg) [Web.](https://starcnc.com/product/sr-20riv-type-b/) [USD 10,000](https://www.machinetools.com/en/for-sale/468559-star-sr-20riv-slash-b-swiss-type-automatic-screw-machines?utm_source=perplexity)
+		- [P.Star SR-20RIV Type B](https://i.imgur.com/zCMyPRg.jpeg) [Web.](https://starcnc.com/product/sr-20riv-type-b/) [USD 100,000](https://www.machinetools.com/en/for-sale/468559-star-sr-20riv-slash-b-swiss-type-automatic-screw-machines?utm_source=perplexity)
 		- [Star 국내 대리점](http://www.star-korea.co.kr/main.php?m1=28&m2=33&m3=&board_mode=list&board_no=&board_search_keyword=&board_page=1&board_search_head_word=&board_mode=view&board_no=34) [Y.](https://www.youtube.com/watch?v=kdYQ2Sbcw7U)
 		- [폴란드 납품](https://youtu.be/rE7xkBG4nvQ?si=rifPRW6dsW5oI3h_)
 	- DOF [홈페이지](https://www.doflab.com/ko) [잡코리아](http://joburl.kr/ILk3a) 
