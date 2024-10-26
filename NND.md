@@ -1,13 +1,6 @@
 - Questions...
-	- NND CFO 역할?
-		- KOSDAQ은 왜 가는가?
-	- Abutment/Fixture를 디자인하는 CAD S/W?
-		- 혹시 Rhino?
-	- 시공소 CAD는 ExoCad or 3Shape?
-		- 결국은 Ai가 
-	- MultiUnit Abutment는 어떻게 다른가?
-	- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요?
-		- CNC로 작업해야 하는 케이스만 아웃소싱?
+	- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요? ex)DOF Craft 5x 소유업체
+		- CNC로 작업해야 하는 케이스만 아웃소싱? 
 		- [오스템 pre-milled 광고](https://youtu.be/cA2zKad729M)
 		- [Y.웅플란트](https://youtu.be/a_a4r6dz7YU) 커스텀의 단점?[Pic.](https://i.imgur.com/2a323aB.jpeg)
 		- CNC와 환봉 작업의 차이
@@ -17,6 +10,22 @@
 				- Scan시에는 더 좋음
 				- External은 CNC 불가 < 음영이 들어가기 때문
 				- (오스템)SS는 Internal이기는 하지만 커넥션 부분이 안쪽으로 들어가는 부분도 있어서 External과 혼합이기에 곤란
+	- 치기공소 중 장비 소유비율?
+		1. 없음
+		2. 밀링
+		3. CNC
+	- US-FDA 전략
+	- NND CFO 역할? 
+		- 법인전환
+			- Tax
+			- 대외이미지 / 투자유치
+		- KOSDAQ은 왜 가는가?
+- SOLVED
+	- Abutment/Fixture를 디자인하는 CAD S/W?
+		- AutoCAD / Inventor
+	- 기공소 CAD는 ExoCad or 3Shape?
+		- 결국은 Ai가 
+	- MultiUnit Abutment는 어떻게 다른가?
 	- Custom Abutment 나사풀림 줄여주는 이유?.
 	- Compatible Product Lines
 		- 법적 문제는 없는지? 없다
@@ -36,20 +45,23 @@
 		- 아주 후진국이라면 세트제품의 테스팅 베드로 가치
 		- 전문제작이 아닌데 수익성이 있을까?
 	- Fixture 제조를 본격적으로 한다면 NND는 어떤 Connection방식 채택?
-	- 호환 Abutment 개발 고려
-		- 메가젠
-			- 유럽시장 (터키 포함)
-		- Straumann (스위스)
-		- Envista (US)
-		- Dentsply Sirona (US)
-		- Nobel (스웨덴)
-	- Cooperation
-		- 단순 판매할 기회 (외부 판매사)
-			- 좋은 가격
-			- 유기적 협업 (앱 제작을 선호)
-		- 보다 긴밀한 융합업무
-			- 송대표님의 제안?
-		- 단순 판매를 진행하다가 합치는 경우
+- Cooperation
+	- 단순 판매할 기회 (외부 판매사)
+		- 좋은 가격
+		- 유기적 협업 (앱 제작을 선호)
+	- 보다 긴밀한 융합업무
+		- 송대표님의 제안?
+	- 단순 판매를 진행하다가 합치는 경우
+- 호환 Abutment 개발 고려
+	- 메가젠
+		- 유럽시장 (터키 포함)
+	- Straumann (스위스)
+	- Envista (US)
+	- Dentsply Sirona (US)
+	- Nobel (스웨덴)
+- Worldwide
+	- Top 3 [iData Research](https://idataresearch.com/top-3-market-share-leaders-in-the-global-dental-implant-market/)
+	- [SkyQuestt](https://www.skyquestt.com/report/dental-implants-market)
 - 바로 수출할 수 있는 즉 인증이 필요없거나 ==회색지대==인 나라를 찾아보자
 	- 태국?
 		- [6wresearch](https://www.6wresearch.com/industry-report/thailand-dental-implants-and-prosthetics-market)
@@ -90,9 +102,6 @@
 		- [미얀마 의료용품시장](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=180&SITE_NO=3&bbsGbn=243&bbsSn=243&pNttSn=203606&utm_source=perplexity)
 		- Kotra -[미얀마 의료기기 시장동향 2024.08.09](https://dream.kotra.or.kr/dream/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=3530&SITE_NO=2&bbsSn=254&pNttSn=218154&utm_source=perplexity)
 			- 규제, 인증, 등록 과정 
-- Worldwide
-	- Top 3 [iData Research](https://idataresearch.com/top-3-market-share-leaders-in-the-global-dental-implant-market/)
-	- [SkyQuestt](https://www.skyquestt.com/report/dental-implants-market)
 - 중국시장 (90%는 수입)
 	- 수입국 [마켓쉐어Graph](https://dream.kotra.or.kr/attach/namo/images/000409/20230306190610832_HBDMPPI0.png)
 		- 한국 50%
@@ -110,6 +119,7 @@
 			- 한국은 1만 명당 600개로 전 세계에서 임플란트 보급률이 가장 높으며 독일, 이탈리아 등 유럽 국가도 1만 명당 100개 이상이나 중국은 1만 명당 30개에 불과하다.
 			- 의학신문
 				- [폭발적 성장, 중국 임플란트 산업 발전 주목하라(2023.3.14)](http://www.bosa.co.kr/news/articleView.html?idxno=2192705)
+		-  [LinkedIn 2024.3.13](https://www.linkedin.com/pulse/dental-implants-market-size-share-trends-analysis-report-hancock-nrakf/)
 	- 오스템
 	- 덴티움
 	- Straumann
@@ -117,8 +127,6 @@
 	- 허가증 있는 업체 - 월 몇만개 (4개월 8만개) Fixture 2등급 제품 위주로...
 		- 외주를 주기 때문에 알게 됨
 		- 코로나 전후로 변화 큼
-- 미디어
-	-  [LinkedIn 2024.3.13](https://www.linkedin.com/pulse/dental-implants-market-size-share-trends-analysis-report-hancock-nrakf/)
 - Fixture 진출
 	- 5-6억 투자필요 (세척기 등)
 - 국내 임플란트 제조사
@@ -134,27 +142,37 @@
 	- Straumann
 		- [Y.닥터잇몸짱](https://youtu.be/Clt43r7jLOc)
 - Digital Dental System
-	- Modeling S/W
-		- https://instituteofdigitaldentistry.com/cad-cam/the-ultimate-guide-to-dental-cad-software-in-2024/
-		- [Cyfex](https://www.cyfex.com/en)
-			- Secret Ear Design
+	- Modeling S/W 2024 [비교](https://instituteofdigitaldentistry.com/cad-cam/the-ultimate-guide-to-dental-cad-software-in-2024/)
 		- Exo Cad
 			- [Y.Make Your Own Custom Abutment](https://youtu.be/fIJqxNKbKB4)
 			- [Y.딜리버리](https://youtu.be/AmQOgvtdK2Y)
-			- [Download & Install](https://www.youtube.com/watch?v=wmU8ArsTvqc)
+			- [Y.Download & Install](https://www.youtube.com/watch?v=wmU8ArsTvqc)
+			- [Y.커스텀 어버트먼트 디자인 (필수)](https://www.youtube.com/watch?v=B2KPvwHrESE)
+			-  Download [Shinning3D](https://support.shining3ddental.com/en/support/solutions/articles/60000755552-download-exocad-dentalcad)
+		- [후보 Cyfex](https://www.cyfex.com/en)
+			- Secret Ear Design
+	- 한국씨엔텍 [Y.](https://youtu.be/p54rzGg42RE)
+		- [학술회](https://i.imgur.com/TTmPnlG.png) [구인.01](https://www.wanted.co.kr/company/83ea37d1d80def955f946681eb433627c4f61ee9) [블로그](https://blog.naver.com/cnt-00243/222520786273) [P.백완 대표](https://i.imgur.com/1i2pU1O.jpeg)
+		- [P.Star SR-20RIV Type B](https://i.imgur.com/zCMyPRg.jpeg) [Web.](https://starcnc.com/product/sr-20riv-type-b/) [USD 10,000](https://www.machinetools.com/en/for-sale/468559-star-sr-20riv-slash-b-swiss-type-automatic-screw-machines?utm_source=perplexity)
+		- [Star 국내 대리점](http://www.star-korea.co.kr/main.php?m1=28&m2=33&m3=&board_mode=list&board_no=&board_search_keyword=&board_page=1&board_search_head_word=&board_mode=view&board_no=34) [Y.](https://www.youtube.com/watch?v=kdYQ2Sbcw7U)
+		- [폴란드 납품](https://youtu.be/rE7xkBG4nvQ?si=rifPRW6dsW5oI3h_)
+	- DOF [홈페이지](https://www.doflab.com/ko) [잡코리아](http://joburl.kr/ILk3a) 
+		- Craft 5x 밀링기
+			- 어버트먼트 + 크라운(지르코니아) + 왁스 밀링
 - NND 회사 상황
 	- 계획
 		- 장비 1대 생산력 (현재 1대 운영중)
-			- 커스텀 50-80개 (늘려야한다)
+			- 커스텀 50-80개 (추가장비 필요)
 			- 기성 500-600개
 	- 직원 
-		- 9명 (10명)
-		- 3명 생산라인
+		- 9명 (10명) / 3명 생산라인
 	-  [Financial Status](https://www.jobkorea.co.kr/Recruit/Co_Read/C/25262792?Oem_Code=C1)
 - Marketing
 	- 치기공소 리스트
 		- [행정안전부 고공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
 - 치기공소 연구
 	- [지플란트](http://www.zplantlab.com/)
-- 
+- US-FDA 승인전략
+	- [Y.분당서울대병원 강의](https://youtube.com/watch?v=YP222t6tE8k)
+	- 
 
