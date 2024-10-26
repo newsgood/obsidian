@@ -10,16 +10,18 @@
 				- Scan시에는 더 좋음
 				- External은 CNC 불가 < 음영이 들어가기 때문
 				- (오스템)SS는 Internal이기는 하지만 커넥션 부분이 안쪽으로 들어가는 부분도 있어서 External과 혼합이기에 곤란
-	- 치기공소 중 장비 소유비율?
-		1. 없음
-		2. 밀링
-		3. CNC
+		- 치기공소 중 장비 소유비율?
+			1. 없음
+			2. 밀링
+			3. CNC
 	- US-FDA 전략
 	- NND CFO 역할? 
 		- 법인전환
 			- Tax
 			- 대외이미지 / 투자유치
 		- KOSDAQ은 왜 가는가?
+- Fixture 진출
+	- 5-6억 투자필요 (세척기 등)
 - SOLVED
 	- Abutment/Fixture를 디자인하는 CAD S/W?
 		- AutoCAD / Inventor
@@ -62,6 +64,31 @@
 - Worldwide
 	- Top 3 [iData Research](https://idataresearch.com/top-3-market-share-leaders-in-the-global-dental-implant-market/)
 	- [SkyQuestt](https://www.skyquestt.com/report/dental-implants-market)
+- 중국시장 (90%는 수입)
+	- 수입국 [마켓쉐어Graph](https://dream.kotra.or.kr/attach/namo/images/000409/20230306190610832_HBDMPPI0.png)
+		- 한국 50%
+		- 스위스 20%
+		- 미국 15% (수량은 미국이 스위스 2배?)
+		- 스웨덴 6% (제일비쌈?) - 어디회사길래 Astra?
+	- 인증
+		- HS코드 - 9021.29.00
+		- 2년에서 5년
+		- 비용 7억에서 10억 (예전 2억) 자국보호주의
+		- NND 이미 1등급 인증 등록
+			- 드라이버류
+	- 언론
+		- Kotra - [중국 임플란트 시장동향](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=200725)
+			- 한국은 1만 명당 600개로 전 세계에서 임플란트 보급률이 가장 높으며 독일, 이탈리아 등 유럽 국가도 1만 명당 100개 이상이나 중국은 1만 명당 30개에 불과하다.
+			- 의학신문
+				- [폭발적 성장, 중국 임플란트 산업 발전 주목하라(2023.3.14)](http://www.bosa.co.kr/news/articleView.html?idxno=2192705)
+		-  [LinkedIn 2024.3.13](https://www.linkedin.com/pulse/dental-implants-market-size-share-trends-analysis-report-hancock-nrakf/)
+	- 오스템
+	- 덴티움
+	- Straumann
+		- 중국내 호환제품 제조사 있음
+	- 허가증 있는 업체 - 월 몇만개 (4개월 8만개) Fixture 2등급 제품 위주로...
+		- 외주를 주기 때문에 알게 됨
+		- 코로나 전후로 변화 큼
 - 바로 수출할 수 있는 즉 인증이 필요없거나 ==회색지대==인 나라를 찾아보자
 	- 태국?
 		- [6wresearch](https://www.6wresearch.com/industry-report/thailand-dental-implants-and-prosthetics-market)
@@ -102,33 +129,6 @@
 		- [미얀마 의료용품시장](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=180&SITE_NO=3&bbsGbn=243&bbsSn=243&pNttSn=203606&utm_source=perplexity)
 		- Kotra -[미얀마 의료기기 시장동향 2024.08.09](https://dream.kotra.or.kr/dream/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=3530&SITE_NO=2&bbsSn=254&pNttSn=218154&utm_source=perplexity)
 			- 규제, 인증, 등록 과정 
-- 중국시장 (90%는 수입)
-	- 수입국 [마켓쉐어Graph](https://dream.kotra.or.kr/attach/namo/images/000409/20230306190610832_HBDMPPI0.png)
-		- 한국 50%
-		- 스위스 20%
-		- 미국 15% (수량은 미국이 스위스 2배?)
-		- 스웨덴 6% (제일비쌈?) - 어디회사길래 Astra?
-	- 인증
-		- HS코드 - 9021.29.00
-		- 2년에서 5년
-		- 비용 7억에서 10억 (예전 2억) 자국보호주의
-		- NND 이미 1등급 인증 등록
-			- 드라이버류
-	- 언론
-		- Kotra - [중국 임플란트 시장동향](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=200725)
-			- 한국은 1만 명당 600개로 전 세계에서 임플란트 보급률이 가장 높으며 독일, 이탈리아 등 유럽 국가도 1만 명당 100개 이상이나 중국은 1만 명당 30개에 불과하다.
-			- 의학신문
-				- [폭발적 성장, 중국 임플란트 산업 발전 주목하라(2023.3.14)](http://www.bosa.co.kr/news/articleView.html?idxno=2192705)
-		-  [LinkedIn 2024.3.13](https://www.linkedin.com/pulse/dental-implants-market-size-share-trends-analysis-report-hancock-nrakf/)
-	- 오스템
-	- 덴티움
-	- Straumann
-		- 중국내 호환제품 제조사 있음
-	- 허가증 있는 업체 - 월 몇만개 (4개월 8만개) Fixture 2등급 제품 위주로...
-		- 외주를 주기 때문에 알게 됨
-		- 코로나 전후로 변화 큼
-- Fixture 진출
-	- 5-6억 투자필요 (세척기 등)
 - 국내 임플란트 제조사
 	- 브랜드 비교 [Y.미심치](https://youtu.be/3xYYx8VwX4o) [Y.최승원](https://youtu.be/GHsft8RbyJQ)
 	- 오스템
@@ -172,6 +172,7 @@
 		- [행정안전부 고공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
 - 치기공소 연구
 	- [지플란트](http://www.zplantlab.com/)
+	- [ 3곳 추천 Per.](https://i.imgur.com/KQSAu86.png)
 - US-FDA 승인전략
 	- [Y.분당서울대병원 강의](https://youtube.com/watch?v=YP222t6tE8k)
 	- 
