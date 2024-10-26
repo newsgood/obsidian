@@ -1,8 +1,8 @@
 - Questions...
-	- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요? ex)DOF Craft 5x 소유업체
-		- CNC로 작업해야 하는 케이스만 아웃소싱? 
-		- [오스템 pre-milled 광고](https://youtu.be/cA2zKad729M)
-		- [Y.웅플란트](https://youtu.be/a_a4r6dz7YU) 커스텀의 단점?[Pic.](https://i.imgur.com/2a323aB.jpeg)
+	- Custom Abutment 전략
+		- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요? 
+			- ex)DOF Craft 5x 소유업체
+			- CNC로 작업해야 하는 케이스만 아웃소싱? 
 		- CNC와 환봉 작업의 차이
 			- [Y.송카롱](https://youtu.be/bD6q49dy2vQ?si=mx1uO1fba5EdFLYY)
 			- 환봉
@@ -15,13 +15,13 @@
 			2. 밀링
 			3. CNC
 	- US-FDA 전략
+	- Fixture 진출
+		- 5-6억 투자필요 (세척기 등)
 	- NND CFO 역할? 
 		- 법인전환
 			- Tax
 			- 대외이미지 / 투자유치
 		- KOSDAQ은 왜 가는가?
-- Fixture 진출
-	- 5-6억 투자필요 (세척기 등)
 - SOLVED
 	- Abutment/Fixture를 디자인하는 CAD S/W?
 		- AutoCAD / Inventor
@@ -89,7 +89,8 @@
 	- 허가증 있는 업체 - 월 몇만개 (4개월 8만개) Fixture 2등급 제품 위주로...
 		- 외주를 주기 때문에 알게 됨
 		- 코로나 전후로 변화 큼
-- 바로 수출할 수 있는 즉 인증이 필요없거나 ==회색지대==인 나라를 찾아보자
+- 해외 마케팅 공략시장
+	- 바로 수출할 수 있는 즉 인증이 필요없거나 ==회색지대==인 나라를 찾아보자
 	- 태국?
 		- [6wresearch](https://www.6wresearch.com/industry-report/thailand-dental-implants-and-prosthetics-market)
 		- 덴티스
@@ -167,12 +168,12 @@
 	- 직원 
 		- 9명 (10명) / 3명 생산라인
 	-  [Financial Status](https://www.jobkorea.co.kr/Recruit/Co_Read/C/25262792?Oem_Code=C1)
-- Marketing
-	- 치기공소 리스트
-		- [행정안전부 고공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
 - 치기공소 연구
 	- [지플란트](http://www.zplantlab.com/)
 	- [ 3곳 추천 Per.](https://i.imgur.com/KQSAu86.png)
+- 국내 마케팅
+	- 치기공소 리스트
+		- [행정안전부 고공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
 - US-FDA 승인전략
 	- [Y.분당서울대병원 강의](https://youtube.com/watch?v=YP222t6tE8k)
 	- 
