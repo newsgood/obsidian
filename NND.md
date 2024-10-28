@@ -1,17 +1,20 @@
 - Questions...
 	- Custom Abutment 전략
 		- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요? 
-			- ex)DOF Craft 5x 소유업체
+			- ex) DOF Craft 5x 소유업체
 			- CNC로 작업해야 하는 케이스만 아웃소싱? 
+				- [STL Center](http://dental2804.com/page/stl/) 밀링센터
 		- CNC와 환봉 작업의 차이 #CNC 
 			- [Y.송카롱](https://youtu.be/bD6q49dy2vQ?si=mx1uO1fba5EdFLYY) 지플란트는 동일가격(스캔공정 빠지니까)
+			- [ChatGPT](https://chatgpt.com/share/671e7002-56dc-8005-9077-c2a5dedda28a)
 			- 환봉
 				- 커넥션은 이미 제작
 				- 10/14 파이 기성 원기둥
 				- 재료비 저렴 / 빠른 가공
 				- 추가적인 스캔 / 다듬기 공정추가
 			- CNC
-				- 적합성 좋음
+				- 훨씬 정밀
+					- 정밀도를 말할때 단위나 기준은 무엇인가?
 				- Scan시에는 더 좋음
 				- External은 CNC 불가 < 음영이 들어가기 때문
 				- (오스템)SS는 Internal이기는 하지만 커넥션 부분이 안쪽으로 들어가는 부분도 있어서 External과 혼합이기에 곤란
@@ -22,6 +25,10 @@
 			3. CNC
 				- 투자금 약 2억?
 		- 아노다이징의 영향? #Anodizing 
+	- 정품커스텀
+		- OralFit [H.](https://oralfit.co.kr/)
+		- [Y.](https://youtu.be/WhOHoEVwM6I) [P#01](https://i.imgur.com/70oduDX.png) [P#02](https://i.imgur.com/O5oeYhq.png)
+		- [기사.덴포라인.2020](https://www.denfoline.co.kr/news/articleView.html?idxno=20504)
 	- US-FDA 전략 #FDA 
 	- Fixture 진출
 		- 5-6억 투자필요 (세척기 등)
@@ -39,7 +46,6 @@
 	- Custom Abutment 나사풀림 줄여주는 이유?.
 	- Compatible Product Lines
 		- 법적 문제는 없는지? 없다
-		- 오스템도 카피업체 / 표면처리 레서피
 	- Custom Abutment
 		- 국내 경쟁사 가격 2-2.5
 		- CNC/환봉>기공사
@@ -55,7 +61,6 @@
 		- 아주 후진국이라면 세트제품의 테스팅 베드로 가치
 		- 전문제작이 아닌데 수익성이 있을까?
 	- Fixture 제조를 본격적으로 한다면 NND는 어떤 Connection방식 채택?
-- Cooperation
 	- 단순 판매할 기회 (외부 판매사)
 		- 좋은 가격
 		- 유기적 협업 (앱 제작을 선호)
@@ -77,14 +82,14 @@
 		- 한국 50%
 		- 스위스 20%
 		- 미국 15% (수량은 미국이 스위스 2배?)
-		- 스웨덴 6% (제일비쌈?) - 어디회사길래 Astra?
+		- 스웨덴 6% (제일비쌈?) -Nobel?
 	- 인증 #FDA 
 		- 2년에서 5년
-		- 비용 7억에서 10억 (예전 2억) 자국보호주의
+		- S-FDA 인증비용 7억에서 10억 (예전엔 2억) 자국보호주의
 		- NND 이미 1등급 인증 등록
 			- 드라이버류
 	- 언론
-		- Kotra - [중국 임플란트 시장동향](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=200725)
+		- Kotra - [중국 임플란트 시장동향 2023-03-09](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=200725)
 			- 한국은 1만 명당 600개로 전 세계에서 임플란트 보급률이 가장 높으며 독일, 이탈리아 등 유럽 국가도 1만 명당 100개 이상이나 중국은 1만 명당 30개에 불과하다.
 			- 의학신문
 				- [폭발적 성장, 중국 임플란트 산업 발전 주목하라(2023.3.14)](http://www.bosa.co.kr/news/articleView.html?idxno=2192705)
@@ -94,7 +99,7 @@
 		- 덴티움
 		- Straumann
 			- 중국내 호환제품 제조사 있음
-	- 허가증 있는 업체 - 월 몇만개 (4개월 8만개) Fixture 2등급 제품 위주로...
+	- 허가증 있는 업체 - Ex) 4개월 8만개 판매했다고 함. Fixture 2등급 제품 위주로...
 		- 외주를 주기 때문에 알게 됨
 		- 코로나 전후로 변화 큼
 	- Volume-based procurement
@@ -147,7 +152,9 @@
 		- [뉴스워커 24.10.21](https://www.newsworker.co.kr/news/articleView.html?idxno=352342)- # 촘촘해지는 판매 그물망
 	- 덴티움
 		- 오래가는 디자인
+		- 중국비율 55% [Y.](https://youtu.be/tGo6jJfzPls) 18만원 > 상한가 15만원
 	- 메가젠 
+		- [Y.최강기업](https://youtu.be/WM-KBSVvYXE) 
 	- 네오
 		- YK Link [Y.](https://youtu.be/70nMDpUfKWw) 
 	- 코웰메디
@@ -169,7 +176,7 @@
 			-  Download [Shinning3D](https://support.shining3ddental.com/en/support/solutions/articles/60000755552-download-exocad-dentalcad)
 		- [후보 Cyfex](https://www.cyfex.com/en)
 			- Secret Ear Design
-	- Miller & CNC
+	- Miller & CNC [GPT.10개추천](https://chatgpt.com/share/671e61ae-af40-8005-8398-0e5cbc7151fc)
 		- 한국씨엔텍 [Y.](https://youtu.be/p54rzGg42RE) [홈.](http://hkcntech.com/?act=common.event_popup_view&seq=11) #CNC 
 			- [학술회](https://i.imgur.com/TTmPnlG.png) [구인.01](https://www.wanted.co.kr/company/83ea37d1d80def955f946681eb433627c4f61ee9) [블로그](https://blog.naver.com/cnt-00243/222520786273) [P.백완 대표](https://i.imgur.com/1i2pU1O.jpeg)
 			- [P.Star SR-20RIV Type B](https://i.imgur.com/zCMyPRg.jpeg) [Web.](https://starcnc.com/product/sr-20riv-type-b/) [USD 138,000](https://www.machinetools.com/en/for-sale/468559-star-sr-20riv-slash-b-swiss-type-automatic-screw-machines?utm_source=perplexity)
@@ -180,14 +187,19 @@
 				- 어버트먼트 + 크라운(지르코니아) + 왁스 밀링
 		- Manix Dental
 			- 밀러 [Y.](https://youtu.be/9FgYPPWti_Q)  [Y.kr](https://youtu.be/iSEjoEtxTvQ) [홈.](http://www.manix.co.kr/new/index.php)
+	- 중국산
 - 치기공소 연구
-	- [지플란트](http://www.zplantlab.com/)
+	- [[지플란트]] / [H.](http://www.zplantlab.com/)
 	- 웰컴기공소 부산 #3Shape 
 	- [ 3곳 추천 P.](https://i.imgur.com/KQSAu86.png)
+	- DentalCraft  BI.
 - NND 회사 상황 
+	- 2023년 자료?
 	- 일반 [잡코.](https://m.jobkorea.co.kr/Recruit/Co_Read/Recruit/C/25262792)
 		- 직원 
 			- 9명 (10명) / 3명 생산라인 < 기계 1대에?
+		- 장비
+			- CNC
 	- 계획
 		- 장비 1대 생산력 (현재 1대 운영중)
 			- 커스텀 50-80개 (추가장비 필요)
@@ -195,7 +207,7 @@
 	-  [Financial Status](https://www.jobkorea.co.kr/Recruit/Co_Read/C/25262792?Oem_Code=C1)
 - 국내 마케팅
 	- 치기공소 리스트
-		- [행정안전부 고공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
+		- [행정안전부 공공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
 	- Custom Abutment 차별화
 		- 아노다이징? (Red, Pink) #Anodizing 
 - US-FDA 승인전략 #FDA 
