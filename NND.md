@@ -1,9 +1,33 @@
 - Questions...
-	- Custom Abutment 전략
-		- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요? 
-			- ex) DOF Craft 5x 소유업체
-			- CNC로 작업해야 하는 케이스만 아웃소싱? 
-				- [STL Center](http://dental2804.com/page/stl/) 밀링센터
+	- 리버스 지그? [P.](https://i.imgur.com/uOHHa77.jpeg)
+	- Custom Abutment Brand 전략
+		- 환봉 Custom과의 차별필요
+			- Super Custom Abutment  = S커스텀 용어 확장?
+	- 아노다이징의 영향? #Anodizing 
+		- 생체 유용성 있음 / 시각적 상품성 (잇몸 문제시)
+		- 공정추가로인한 원가?
+	- 전체 치기공소 중 장비 소유비율?
+		1. 없음
+		2. 밀링
+			- 투자금 5000?
+		3. CNC
+			- 투자금 약 2억?
+	- 정품커스텀 > 영업중지한 것으로 보임
+		- OralFit [H.](https://oralfit.co.kr/) > 전자주문 벤치로써 가피있음
+		- [Y.](https://youtu.be/WhOHoEVwM6I) [P#01](https://i.imgur.com/70oduDX.png) [P#02](https://i.imgur.com/O5oeYhq.png)
+		- [기사.덴포라인.2020](https://www.denfoline.co.kr/news/articleView.html?idxno=20504)
+	- US-FDA 전략 #FDA 
+		- K-FDA와 동시진행?
+	- NND CFO 역할? 
+		- 법인전환
+			- Tax
+			- 대외이미지 / 투자유치
+		- KOSDAQ은 왜 가는가?
+- SOLVED
+	- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요? >> 송대표 대답 
+		- ex) DOF Craft 5x 소유업체
+		- CNC로 작업해야 하는 케이스만 아웃소싱? 
+			- [STL Center](http://dental2804.com/page/stl/) 밀링센터
 		- CNC와 환봉 작업의 차이 #CNC 
 			- [Y.송카롱](https://youtu.be/bD6q49dy2vQ?si=mx1uO1fba5EdFLYY) 지플란트는 동일가격(스캔공정 빠지니까)
 			- [ChatGPT](https://chatgpt.com/share/671e7002-56dc-8005-9077-c2a5dedda28a)
@@ -18,26 +42,7 @@
 				- Scan시에는 더 좋음
 				- External은 CNC 불가 < 음영이 들어가기 때문
 				- (오스템)SS는 Internal이기는 하지만 커넥션 부분이 안쪽으로 들어가는 부분도 있어서 External과 혼합이기에 곤란
-		- 치기공소 중 장비 소유비율?
-			1. 없음
-			2. 밀링
-				- 투자금
-			3. CNC
-				- 투자금 약 2억?
-		- 아노다이징의 영향? #Anodizing 
-	- 정품커스텀
-		- OralFit [H.](https://oralfit.co.kr/)
-		- [Y.](https://youtu.be/WhOHoEVwM6I) [P#01](https://i.imgur.com/70oduDX.png) [P#02](https://i.imgur.com/O5oeYhq.png)
-		- [기사.덴포라인.2020](https://www.denfoline.co.kr/news/articleView.html?idxno=20504)
-	- US-FDA 전략 #FDA 
-	- Fixture 진출
-		- 5-6억 투자필요 (세척기 등)
-	- NND CFO 역할? 
-		- 법인전환
-			- Tax
-			- 대외이미지 / 투자유치
-		- KOSDAQ은 왜 가는가?
-- SOLVED
+	- 
 	- Abutment/Fixture를 디자인하는 CAD S/W?
 		- AutoCAD / Inventor
 	- 기공소 CAD는 ExoCad or 3Shape?
@@ -74,7 +79,7 @@
 	- Envista (US)
 	- Dentsply Sirona (US)
 	- Nobel (스웨덴)
-- Worldwide
+- Worldwide 시장
 	- Top 3 [iData Research](https://idataresearch.com/top-3-market-share-leaders-in-the-global-dental-implant-market/)
 	- [SkyQuestt](https://www.skyquestt.com/report/dental-implants-market)
 - 중국시장
@@ -150,7 +155,8 @@
 	- 브랜드 비교 [Y.미심치](https://youtu.be/3xYYx8VwX4o) [Y.최승원](https://youtu.be/GHsft8RbyJQ)
 	- 오스템
 		- [뉴스워커 24.10.21](https://www.newsworker.co.kr/news/articleView.html?idxno=352342)- # 촘촘해지는 판매 그물망
-	- 덴티움
+		- [잡코](https://www.jobkorea.co.kr/company/1668360?tabType=I) 재무 
+	- 덴티움 
 		- 오래가는 디자인
 		- 중국비율 55% [Y.](https://youtu.be/tGo6jJfzPls) 18만원 > 상한가 15만원
 	- 메가젠 
@@ -160,12 +166,16 @@
 	- 코웰메디
 		- SFIT [Y.](https://youtu.be/n0J9fsub_Fo) [Y.02](https://youtu.be/n0J9fsub_Fo?t=50m53s) [Per.](https://www.perplexity.ai/search/kowel-impeulranteuyi-s-fiteun-9YiJ8MP3Sb6GIFi8giHXXw)
 - 해외 임플란트 제조사
-	- Straumann
+	- Straumann #Straumann
 		- [Y.닥터잇몸짱](https://youtu.be/Clt43r7jLOc)
 		- Roxolid는 티타늄(Titanium)과 지르코늄(Zirconium)의 합금
 			- Roxolid와 관련된 특허는 여러 개가 있으며, 특정 특허의 출원 날짜는 다를 수 있습니다. 대표적으로 스트라우만이 Roxolid 합금에 대해 출원한 특허 중 하나는 EP 1 805 370 A1입니다. 이 특허는 2006년 9월 6일에 출원되었습니다.
+		- BLX의 장점 [Y.치덕후#1](https://youtu.be/uSe6J8paxTw)  [Y.치덕후#2](https://youtu.be/7oWt0RjT26I)
 	- Astra (스웨덴)
 		- 생체적합성과 치유속도를 강조 (높은 성공률?)
+	- 듣보잡?
+		- MIS [Y.Ti Base](https://youtu.be/my55dvF5SIU) 
+			- [Y.Ti base Implant Drsign with ExoCAD](https://youtu.be/0MVNtL3pGww) 
 - Digital Dental System #3D-Dental 
 	- Modeling S/W 2024 [비교](https://instituteofdigitaldentistry.com/cad-cam/the-ultimate-guide-to-dental-cad-software-in-2024/)
 		- ExoCad #ExoCAD 
@@ -193,6 +203,7 @@
 	- 웰컴기공소 부산 #3Shape 
 	- [ 3곳 추천 P.](https://i.imgur.com/KQSAu86.png)
 	- DentalCraft  BI.
+	- 비자격자 창업 [GPT.](https://chatgpt.com/share/6720a872-868c-8005-8a8e-d05c24e31636)
 - NND 회사 상황 
 	- 2023년 자료?
 	- 일반 [잡코.](https://m.jobkorea.co.kr/Recruit/Co_Read/Recruit/C/25262792)
@@ -205,6 +216,13 @@
 			- 커스텀 50-80개 (추가장비 필요)
 			- 기성 500-600개
 	-  [Financial Status](https://www.jobkorea.co.kr/Recruit/Co_Read/C/25262792?Oem_Code=C1)
+- NND 개발
+	- Fixture
+		- Internal Bone
+		- 찢어지는 문제
+			- 윗쪽 입구 부분은 스크류 없는 부분 필요
+				- [윗쪽 밴드](https://www.researchgate.net/figure/mplant-shapes-used-in-the-present-work-A-Master-Screw-B-Conect-Conic-and-C_fig1_233772296)   [P.](https://i.imgur.com/4O9j097.png)
+				- 윗쪽 나사선을 없애는 "임플란트 성형술"의 케이스 참고 [Y.임플맨](https://youtu.be/mwRodwnY1LQ) 
 - 국내 마케팅
 	- 치기공소 리스트
 		- [행정안전부 공공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
@@ -212,7 +230,12 @@
 		- 아노다이징? (Red, Pink) #Anodizing 
 - US-FDA 승인전략 #FDA 
 	- [Y.분당서울대병원 강의](https://youtube.com/watch?v=YP222t6tE8k)
-	- 
+
+후원 커스텀  기계 6대
+
+
+
+
 
 ---
 #DentalCraft 
