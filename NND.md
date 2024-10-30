@@ -42,7 +42,6 @@
 				- Scan시에는 더 좋음
 				- External은 CNC 불가 < 음영이 들어가기 때문
 				- (오스템)SS는 Internal이기는 하지만 커넥션 부분이 안쪽으로 들어가는 부분도 있어서 External과 혼합이기에 곤란
-	- 
 	- Abutment/Fixture를 디자인하는 CAD S/W?
 		- AutoCAD / Inventor
 	- 기공소 CAD는 ExoCad or 3Shape?
@@ -79,103 +78,6 @@
 	- Envista (US)
 	- Dentsply Sirona (US)
 	- Nobel (스웨덴)
-- Worldwide 시장
-	- Top 3 [iData Research](https://idataresearch.com/top-3-market-share-leaders-in-the-global-dental-implant-market/)
-	- [SkyQuestt](https://www.skyquestt.com/report/dental-implants-market)
-- 중국시장
-	- 수입국 [마켓쉐어Graph](https://dream.kotra.or.kr/attach/namo/images/000409/20230306190610832_HBDMPPI0.png)
-		- 한국 50%
-		- 스위스 20%
-		- 미국 15% (수량은 미국이 스위스 2배?)
-		- 스웨덴 6% (제일비쌈?) -Nobel?
-	- 인증 #FDA 
-		- 2년에서 5년
-		- S-FDA 인증비용 7억에서 10억 (예전엔 2억) 자국보호주의
-		- NND 이미 1등급 인증 등록
-			- 드라이버류
-	- 언론
-		- Kotra - [중국 임플란트 시장동향 2023-03-09](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=200725)
-			- 한국은 1만 명당 600개로 전 세계에서 임플란트 보급률이 가장 높으며 독일, 이탈리아 등 유럽 국가도 1만 명당 100개 이상이나 중국은 1만 명당 30개에 불과하다.
-			- 의학신문
-				- [폭발적 성장, 중국 임플란트 산업 발전 주목하라(2023.3.14)](http://www.bosa.co.kr/news/articleView.html?idxno=2192705)
-		-  [LinkedIn 2024.3.13](https://www.linkedin.com/pulse/dental-implants-market-size-share-trends-analysis-report-hancock-nrakf/)
-	- Players in China
-		- 오스템
-		- 덴티움
-		- Straumann
-			- 중국내 호환제품 제조사 있음
-	- 허가증 있는 업체 - Ex) 4개월 8만개 판매했다고 함. Fixture 2등급 제품 위주로...
-		- 외주를 주기 때문에 알게 됨
-		- 코로나 전후로 변화 큼
-	- Volume-based procurement
-		- [Dental Tribune](https://www.dental-tribune.com/news/impact-of-chinas-volume-based-procurement-on-the-asia-pacific-dental-implant-market/)
-		- [P.](https://www.perplexity.ai/search/volume-based-procurement-yimi-32G1ki0JScazRKPLdiyQVg)
-- 해외 마케팅 공략시장
-	- 바로 수출할 수 있는 즉 인증이 필요없거나 ==회색지대==인 나라를 찾아보자
-	- 태국?
-		- [6wresearch](https://www.6wresearch.com/industry-report/thailand-dental-implants-and-prosthetics-market)
-		- 덴티스
-			- [Dentis Meeting in Bangkok 2024.5.13](https://www.dttoday.com/news/articleView.html?idxno=93505)
-		- 예스바이오텍 [2023](http://www.hin.company/news/articleView.html?idxno=17841)
-		- 덴티움
-			- 법인 있음
-			- [Bright Impland 세미나 2024.7.11](https://www.dentalnews.or.kr/mobile/article.html?no=41508)
-			- 네오바이오텍
-		- 의료광광 B2C
-			- https://www.dttoday.com/news/articleView.html?idxno=93505
-			- https://www.bangkoksmiledental.com/dental_implants.php
-	- 인도네시아?
-	- 필리핀?
-		- [Insights10](https://www.insights10.com/report/philippines-dental-implant-market-analysis/?srsltid=AfmBOoomLSochkixROyUJk3hQEZUkG3L5cUhjkljX0W0B_Gl2m7daa3C)
-		- [필리핀 치과 엑스포 2025](https://ko.cantonfair.net/event/5935-dental-philippines-expo)
-		- https://www.philmedical.com/
-	- 라오스? - 베트남 영향이 큼
-		- [의료기기뉴스라인](http://www.kmdianews.com/news/articleView.html?idxno=39088&utm_source=perplexity) 
-		- 베트남 유통업체들이 관할할고 있을 가능성
-		- [바오세텍 2024.02.16](https://www.dentalarirang.com/news/articleView.html?idxno=40552) - [교정](http://www.biocetec.com/)
-			- 베트남 치과재료 최대 유통업체 Dentistry of Excellence(이하 DOE)
-		- 비엔티안
-			- [로터스 치과](https://blog.naver.com/laokimcom/221528953508)
-			- PPS Dental Clinic [Pic](https://i.imgur.com/elkmeng.png) [Y.](https://youtu.be/m7Qj1UszoRM?si=zM_DZtgKW2AanbHq)
-		- 라오스치협
-		- [라오스 국립 치과대학 2017년](http://www.sbrplant.co.kr/bbs/board.php?bo_table=m08_1&wr_id=22&ipwm=1&pim=1&c_id=113&w=c&c_id=108&w=c)
-	- 캄보디아
-		- [DentaVacation](https://www.dentavacation.com/dental-work-phnom-penh-cambodia/)
-		- [MedicalTourismCo](https://www.medicaltourismco.com/dental-work-phnom-penh-cambodia/)
-		- Pagna Dental Clinic, Phnom Penh, Cambodia
-	- 베트남
-		- [Kotra 2021.11.22](https://www.kiep.go.kr/aif/businessDetail.es?brdctsNo=322668&mid=a30400000000&search_option=&search_keyword=&search_year=&search_month=&search_tagkeyword=&systemcode=03&search_region=&search_area=&currentPage=57&pageCnt=10)
-		- [베트남 픽토리알](https://vietnam.vnanet.vn/korean/tin-van/%E1%84%87%E1%85%A6%E1%84%90%E1%85%B3%E1%84%82%E1%85%A1%E1%86%B7-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%86%AB%E1%84%90%E1%85%B3-%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A3%E1%86%BC-279994.html)
-		- [플란치과](https://biz.chosun.com/stock/stock_general/2024/01/19/LAADDJCIFZDNRDRA3HHW2NKBM4/) - 한국인
-	- 미얀마?
-		- [미얀마 의료용품시장](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=180&SITE_NO=3&bbsGbn=243&bbsSn=243&pNttSn=203606&utm_source=perplexity)
-		- Kotra -[미얀마 의료기기 시장동향 2024.08.09](https://dream.kotra.or.kr/dream/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=3530&SITE_NO=2&bbsSn=254&pNttSn=218154&utm_source=perplexity)
-			- 규제, 인증, 등록 과정 
-- 국내 임플란트 제조사
-	- 브랜드 비교 [Y.미심치](https://youtu.be/3xYYx8VwX4o) [Y.최승원](https://youtu.be/GHsft8RbyJQ)
-	- 오스템
-		- [뉴스워커 24.10.21](https://www.newsworker.co.kr/news/articleView.html?idxno=352342)- # 촘촘해지는 판매 그물망
-		- [잡코](https://www.jobkorea.co.kr/company/1668360?tabType=I) 재무 
-	- 덴티움 
-		- 오래가는 디자인
-		- 중국비율 55% [Y.](https://youtu.be/tGo6jJfzPls) 18만원 > 상한가 15만원
-	- 메가젠 
-		- [Y.최강기업](https://youtu.be/WM-KBSVvYXE) 
-	- 네오
-		- YK Link [Y.](https://youtu.be/70nMDpUfKWw) 
-	- 코웰메디
-		- SFIT [Y.](https://youtu.be/n0J9fsub_Fo) [Y.02](https://youtu.be/n0J9fsub_Fo?t=50m53s) [Per.](https://www.perplexity.ai/search/kowel-impeulranteuyi-s-fiteun-9YiJ8MP3Sb6GIFi8giHXXw)
-- 해외 임플란트 제조사
-	- Straumann #Straumann
-		- [Y.닥터잇몸짱](https://youtu.be/Clt43r7jLOc)
-		- Roxolid는 티타늄(Titanium)과 지르코늄(Zirconium)의 합금
-			- Roxolid와 관련된 특허는 여러 개가 있으며, 특정 특허의 출원 날짜는 다를 수 있습니다. 대표적으로 스트라우만이 Roxolid 합금에 대해 출원한 특허 중 하나는 EP 1 805 370 A1입니다. 이 특허는 2006년 9월 6일에 출원되었습니다.
-		- BLX의 장점 [Y.치덕후#1](https://youtu.be/uSe6J8paxTw)  [Y.치덕후#2](https://youtu.be/7oWt0RjT26I)
-	- Astra (스웨덴)
-		- 생체적합성과 치유속도를 강조 (높은 성공률?)
-	- 듣보잡?
-		- MIS [Y.Ti Base](https://youtu.be/my55dvF5SIU) 
-			- [Y.Ti base Implant Drsign with ExoCAD](https://youtu.be/0MVNtL3pGww) 
 - Digital Dental System #3D-Dental 
 	- Modeling S/W 2024 [비교](https://instituteofdigitaldentistry.com/cad-cam/the-ultimate-guide-to-dental-cad-software-in-2024/)
 		- ExoCad #ExoCAD 
@@ -218,9 +120,9 @@
 	-  [Financial Status](https://www.jobkorea.co.kr/Recruit/Co_Read/C/25262792?Oem_Code=C1)
 - NND 개발
 	- Fixture
-		- Internal Bone
+		- Internal Bone 주력?
 		- 찢어지는 문제
-			- 윗쪽 입구 부분은 스크류 없는 부분 필요
+			- 윗쪽 입구 부분은 스크류 없는 밴드 영역? > 시각적으로도 어필
 				- [윗쪽 밴드](https://www.researchgate.net/figure/mplant-shapes-used-in-the-present-work-A-Master-Screw-B-Conect-Conic-and-C_fig1_233772296)   [P.](https://i.imgur.com/4O9j097.png)
 				- 윗쪽 나사선을 없애는 "임플란트 성형술"의 케이스 참고 [Y.임플맨](https://youtu.be/mwRodwnY1LQ) 
 - 국내 마케팅
@@ -230,6 +132,103 @@
 		- 아노다이징? (Red, Pink) #Anodizing 
 - US-FDA 승인전략 #FDA 
 	- [Y.분당서울대병원 강의](https://youtube.com/watch?v=YP222t6tE8k)
+- 해외 임플란트 제조사
+	- Straumann #Straumann
+		- [Y.닥터잇몸짱](https://youtu.be/Clt43r7jLOc)
+		- Roxolid는 티타늄(Titanium)과 지르코늄(Zirconium)의 합금
+			- Roxolid와 관련된 특허는 여러 개가 있으며, 특정 특허의 출원 날짜는 다를 수 있습니다. 대표적으로 스트라우만이 Roxolid 합금에 대해 출원한 특허 중 하나는 EP 1 805 370 A1입니다. 이 특허는 2006년 9월 6일에 출원되었습니다.
+		- BLX의 장점 [Y.치덕후#1](https://youtu.be/uSe6J8paxTw)  [Y.치덕후#2](https://youtu.be/7oWt0RjT26I)
+	- Astra (스웨덴)
+		- 생체적합성과 치유속도를 강조 (높은 성공률?)
+	- 듣보잡?
+		- MIS [Y.Ti Base](https://youtu.be/my55dvF5SIU) 
+			- [Y.Ti base Implant Drsign with ExoCAD](https://youtu.be/0MVNtL3pGww) 
+- 국내 임플란트 제조사
+	- 브랜드 비교 [Y.미심치](https://youtu.be/3xYYx8VwX4o) [Y.최승원](https://youtu.be/GHsft8RbyJQ)
+	- 오스템
+		- [뉴스워커 24.10.21](https://www.newsworker.co.kr/news/articleView.html?idxno=352342)- # 촘촘해지는 판매 그물망
+		- [잡코](https://www.jobkorea.co.kr/company/1668360?tabType=I) 재무 
+	- 덴티움 
+		- 오래가는 디자인
+		- 중국비율 55% [Y.](https://youtu.be/tGo6jJfzPls) 18만원 > 상한가 15만원
+	- 메가젠 
+		- [Y.최강기업](https://youtu.be/WM-KBSVvYXE) 
+	- 네오
+		- YK Link [Y.](https://youtu.be/70nMDpUfKWw) 
+	- 코웰메디
+		- SFIT [Y.](https://youtu.be/n0J9fsub_Fo) [Y.02](https://youtu.be/n0J9fsub_Fo?t=50m53s) [Per.](https://www.perplexity.ai/search/kowel-impeulranteuyi-s-fiteun-9YiJ8MP3Sb6GIFi8giHXXw)
+- Worldwide 시장
+	- Top 3 [iData Research](https://idataresearch.com/top-3-market-share-leaders-in-the-global-dental-implant-market/)
+	- [SkyQuestt](https://www.skyquestt.com/report/dental-implants-market)
+- 해외 마케팅 공략시장
+	- 바로 수출할 수 있는 즉 인증이 필요없거나 ==회색지대==인 나라를 찾아보자
+	- 태국?
+		- [6wresearch](https://www.6wresearch.com/industry-report/thailand-dental-implants-and-prosthetics-market)
+		- 덴티스
+			- [Dentis Meeting in Bangkok 2024.5.13](https://www.dttoday.com/news/articleView.html?idxno=93505)
+		- 예스바이오텍 [2023](http://www.hin.company/news/articleView.html?idxno=17841)
+		- 덴티움
+			- 법인 있음
+			- [Bright Impland 세미나 2024.7.11](https://www.dentalnews.or.kr/mobile/article.html?no=41508)
+			- 네오바이오텍
+		- 의료광광 B2C
+			- https://www.dttoday.com/news/articleView.html?idxno=93505
+			- https://www.bangkoksmiledental.com/dental_implants.php
+	- 인도네시아?
+	- 필리핀?
+		- [Insights10](https://www.insights10.com/report/philippines-dental-implant-market-analysis/?srsltid=AfmBOoomLSochkixROyUJk3hQEZUkG3L5cUhjkljX0W0B_Gl2m7daa3C)
+		- [필리핀 치과 엑스포 2025](https://ko.cantonfair.net/event/5935-dental-philippines-expo)
+		- https://www.philmedical.com/
+	- 라오스? - 베트남 영향이 큼
+		- [의료기기뉴스라인](http://www.kmdianews.com/news/articleView.html?idxno=39088&utm_source=perplexity) 
+		- 베트남 유통업체들이 관할할고 있을 가능성
+		- [바오세텍 2024.02.16](https://www.dentalarirang.com/news/articleView.html?idxno=40552) - [교정](http://www.biocetec.com/)
+			- 베트남 치과재료 최대 유통업체 Dentistry of Excellence(이하 DOE)
+		- 비엔티안
+			- [로터스 치과](https://blog.naver.com/laokimcom/221528953508)
+			- PPS Dental Clinic [Pic](https://i.imgur.com/elkmeng.png) [Y.](https://youtu.be/m7Qj1UszoRM?si=zM_DZtgKW2AanbHq)
+		- 라오스치협
+		- [라오스 국립 치과대학 2017년](http://www.sbrplant.co.kr/bbs/board.php?bo_table=m08_1&wr_id=22&ipwm=1&pim=1&c_id=113&w=c&c_id=108&w=c)
+	- 캄보디아
+		- [DentaVacation](https://www.dentavacation.com/dental-work-phnom-penh-cambodia/)
+		- [MedicalTourismCo](https://www.medicaltourismco.com/dental-work-phnom-penh-cambodia/)
+		- Pagna Dental Clinic, Phnom Penh, Cambodia
+	- 베트남
+		- [Kotra 2021.11.22](https://www.kiep.go.kr/aif/businessDetail.es?brdctsNo=322668&mid=a30400000000&search_option=&search_keyword=&search_year=&search_month=&search_tagkeyword=&systemcode=03&search_region=&search_area=&currentPage=57&pageCnt=10)
+		- [베트남 픽토리알](https://vietnam.vnanet.vn/korean/tin-van/%E1%84%87%E1%85%A6%E1%84%90%E1%85%B3%E1%84%82%E1%85%A1%E1%86%B7-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%86%AB%E1%84%90%E1%85%B3-%E1%84%89%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A3%E1%86%BC-279994.html)
+		- [플란치과](https://biz.chosun.com/stock/stock_general/2024/01/19/LAADDJCIFZDNRDRA3HHW2NKBM4/) - 한국인
+	- 미얀마?
+		- [미얀마 의료용품시장](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=180&SITE_NO=3&bbsGbn=243&bbsSn=243&pNttSn=203606&utm_source=perplexity)
+		- Kotra -[미얀마 의료기기 시장동향 2024.08.09](https://dream.kotra.or.kr/dream/cms/news/actionKotraBoardDetail.do?CONTENTS_NO=1&MENU_ID=3530&SITE_NO=2&bbsSn=254&pNttSn=218154&utm_source=perplexity)
+			- 규제, 인증, 등록 과정 
+- 중국시장
+	- 수입국 [마켓쉐어Graph](https://dream.kotra.or.kr/attach/namo/images/000409/20230306190610832_HBDMPPI0.png)
+		- 한국 50%
+		- 스위스 20%
+		- 미국 15% (수량은 미국이 스위스 2배?)
+		- 스웨덴 6% (제일비쌈?) -Nobel?
+	- 인증 #FDA 
+		- 2년에서 5년
+		- S-FDA 인증비용 7억에서 10억 (예전엔 2억) 자국보호주의
+		- NND 이미 1등급 인증 등록
+			- 드라이버류
+	- 언론
+		- Kotra - [중국 임플란트 시장동향 2023-03-09](https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=200725)
+			- 한국은 1만 명당 600개로 전 세계에서 임플란트 보급률이 가장 높으며 독일, 이탈리아 등 유럽 국가도 1만 명당 100개 이상이나 중국은 1만 명당 30개에 불과하다.
+			- 의학신문
+				- [폭발적 성장, 중국 임플란트 산업 발전 주목하라(2023.3.14)](http://www.bosa.co.kr/news/articleView.html?idxno=2192705)
+		-  [LinkedIn 2024.3.13](https://www.linkedin.com/pulse/dental-implants-market-size-share-trends-analysis-report-hancock-nrakf/)
+	- Players in China
+		- 오스템
+		- 덴티움
+		- Straumann
+			- 중국내 호환제품 제조사 있음
+	- 허가증 있는 업체 - Ex) 4개월 8만개 판매했다고 함. Fixture 2등급 제품 위주로...
+		- 외주를 주기 때문에 알게 됨
+		- 코로나 전후로 변화 큼
+	- Volume-based procurement
+		- [Dental Tribune](https://www.dental-tribune.com/news/impact-of-chinas-volume-based-procurement-on-the-asia-pacific-dental-implant-market/)
+		- [P.](https://www.perplexity.ai/search/volume-based-procurement-yimi-32G1ki0JScazRKPLdiyQVg)
 
 후원 커스텀  기계 6대
 
