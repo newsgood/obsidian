@@ -2,9 +2,9 @@
 	- NND ==사업계획서 PPT== 
 		- 경영과 영업을 위한 기본 중에 기본 > 지속적인 업데이트
 		- 직성과정에서 체계적 정보를 정리하게 됨
-			- BI & CI 쟁정립
-				- 브랜드 전략
-			- 시장싱황
+			- BI & CI 재정립
+				- 브랜드 전략 > 디자인&컬러 아이덴터티
+			- 시장상황
 			- 경쟁사 분석
 			- 기존(과거) 고객사 성격
 			- 변화될 고객사 정의
@@ -28,6 +28,13 @@
 		- 현재 웹개발사?
 			- 개발비? 워드프레스?
 			- 프레임워크 무엇?
+	- 커뮤니케이션
+		- 멀티허브 경영 - 국내 / 해외
+			- 노마드 영업사원
+			- 노마드 디자이너 
+		- Tools
+			- Discord 추천 (카톡은 개인용으로)
+			- 칠판 (다자간)음성회의는  Discord + 삼성 공유노트 
 - Questions...
 	- 리버스 지그? [P.](https://i.imgur.com/uOHHa77.jpeg)
 	- 환봉 Custom과의 차별필요 > 용어가 중요
@@ -173,7 +180,7 @@
 	- Straumann #Straumann
 		- [Y.닥터잇몸짱](https://youtu.be/Clt43r7jLOc)
 		- Roxolid는 티타늄(Titanium)과 지르코늄(Zirconium)의 합금
-			- Roxolid와 관련된 특허는 여러 개가 있으며, 특정 특허의 출원 날짜는 다를 수 있습니다. 대표적으로 스트라우만이 Roxolid 합금에 대해 출원한 특허 중 하나는 EP 1 805 370 A1입니다. 이 특허는 2006년 9월 6일에 출원되었습니다.
+			- 대표적으로 스트라우만이 Roxolid 합금에 대해 출원한 특허 중 하나는 EP 1 805 370 A1입니다. 이 특허는 2006년 9월 6일에 출원되었습니다.
 		- BLX의 장점 [Y.치덕후#1](https://youtu.be/uSe6J8paxTw)  [Y.치덕후#2](https://youtu.be/7oWt0RjT26I)
 	- Astra (스웨덴)
 		- 생체적합성과 치유속도를 강조 (높은 성공률?)
@@ -264,9 +271,10 @@
 	- 허가증 있는 업체 - Ex) 4개월 8만개 판매했다고 함. Fixture 2등급 제품 위주로...
 		- 외주를 주기 때문에 알게 됨
 		- 코로나 전후로 변화 큼
-	- Volume-based procurement
+	- China Volume-based procurement
 		- [Dental Tribune](https://www.dental-tribune.com/news/impact-of-chinas-volume-based-procurement-on-the-asia-pacific-dental-implant-market/)
 		- [P.](https://www.perplexity.ai/search/volume-based-procurement-yimi-32G1ki0JScazRKPLdiyQVg)
+		- 국내 기업에게 전화위복
 - 경쟁사
 	- 후원이디아이 [H.](http://www.who1edi.com/kor/main/main.html) [잡코.](https://m.jobkorea.co.kr/Recruit/Co_Read/C/who1edi)  
 		- 커스텀  기계 6대
