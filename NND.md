@@ -1,54 +1,64 @@
+- To do
+	- NND ==사업계획서 PPT== 
+		- 경영과 영업을 위한 기본 중에 기본 > 지속적인 업데이트
+		- 직성과정에서 체계적 정보를 정리하게 됨
+			- BI & CI 쟁정립
+				- 브랜드 전략
+			- 시장싱황
+			- 경쟁사 분석
+			- 기존(과거) 고객사 성격
+			- 변화될 고객사 정의
+			- 기존 제품 & 제품전략
+			- 마케팅 전략
+				- 제품군 별
+					- Stock Abutment
+					- Custom Abutment
+					- Etc Tools
+				- 국내 / 해외
+					- 국내는 서울권/부산권  2분할
+			- [SWOT 분석](https://namu.wiki/w/SWOT%20%EB%B6%84%EC%84%9D)
+			- 매출계획 & 재무계획
+			- 인력계획 & 장비도입계획 
+	- ==홈페이지== (전자주문 시스템과 별개)
+		- 인쇄 카탈로그보다 중요
+			- 치기공사/해외바이어 얼마나 사무실/공장을 방문하겠는가?
+			- 온라인상에서 크고 멋진 회사로 보여야 한다
+		- 사업계획서 기반
+		- 모바일 환경을 우선 (반응형 웹)
+		- 현재 웹개발사?
+			- 개발비? 워드프레스?
+			- 프레임워크 무엇?
 - Questions...
-	- To do
-		- NND **==사업계획서 PPT==**
-			- 직성과정에서 체계적 정보를 정리하게 됨
-				- BI & CI 쟁정립
-					- 브랜드 전략
-				- 시장싱황
-				- 경쟁사 분석
-				- 기존(과거) 고객사 성격
-				- 변화될 고객사 정의
-				- 기존 제품 & 제품전략
-				- 마케팅 전략
-					- 제품군 별
-						- OEM
-						- Stock Abutment
-						- Custom Abutment
-					- 국내 / 해외
-						- 각 지역 별
-				- SWOT 분석
-				- 매출계획 & 재무계획
-				- 인력계획 & 장비도입계획 
-			- **==홈페이지==** (전자주문 시스템과 뱔개)
-				- 인쇄된 카타로그보다 중요
-				- 사업계획서 기반
-				- 모바일 환경을 우선
-	- CNC 커스텀이어야만 커스텀으로 MultiUnit Abutment 가능?
 	- 리버스 지그? [P.](https://i.imgur.com/uOHHa77.jpeg)
-	- 환봉 Custom과의 차별필요
+	- 환봉 Custom과의 차별필요 > 용어가 중요
 		- Super Custom Abutment  = "S커스텀" 용어 보급?
-		- CNC 커스텀의 정의를 내려 보급
+		- CNC 커스텀의 정의를 내려서 급차이 구분
+		- Nano Custom Abutment ?
+		- Nano Super Custom  Abutment ?
 	- 아노다이징의 영향? #Anodizing 
 		- 생체 유용성 있음 / 시각적 상품성 (잇몸 문제시)
 		- 공정추가로인한 원가?
-		- 기존 골드 처리?
-	- 전체 치기공소 중 장비 소유비율? 조사핗요
-		1. 없음
-		2. 밀링
-			- 투자금 5000?
-		3. CNC
+		- 기존 골드? 이미 처리 중?
+	- 전체 치기공소 중 장비 소유비율? 조사필요
+		1. 없음 %
+		2. 밀링 %
+			- 투자금 약 5000?
+		3. CNC %
 			- 투자금 약 2억?
 	- 정품커스텀 > 영업중지한 것으로 보임
 		- OralFit [H.](https://oralfit.co.kr/) > 전자주문 벤치로써 가치있음
+			- 치과와 기공소 커뮤니케이션 플렛폼 > NND에서 참고필
 		- [Y.](https://youtu.be/WhOHoEVwM6I) [P#01](https://i.imgur.com/70oduDX.png) [P#02](https://i.imgur.com/O5oeYhq.png)
 		- [기사.덴포라인.2020](https://www.denfoline.co.kr/news/articleView.html?idxno=20504)
 	- US-FDA 전략 #FDA 
 		- K-FDA와 동시진행?
+			- K-FDA는 임상자료 수집을 위해?
 	- NND CFO 역할? 
 		- 법인전환
 			- Tax
 			- 대외이미지 / 투자유치
 		- KOSDAQ은 왜 가는가?
+		- 전략기획(CSO)은 또한 어떻게? 
 - SOLVED
 	- [기공소에서 환봉을 밀링으로 직접 깎고 있는데](https://youtu.be/xAnlxOhFxA8) NND에서 Custom Abutment 제작이 필요? >> 송대표 대답 
 		- CNC로 작업해야 하는 케이스만 아웃소싱? 
@@ -113,6 +123,7 @@
 		- [후보 Cyfex](https://www.cyfex.com/en)
 			- Secret Ear Design
 	- Miller & CNC [GPT.10개추천](https://chatgpt.com/share/671e61ae-af40-8005-8398-0e5cbc7151fc)
+		- 속도 차이?
 		- 한국씨엔텍 [Y.](https://youtu.be/p54rzGg42RE) [홈.](http://hkcntech.com/?act=common.event_popup_view&seq=11) #CNC 
 			- [학술회](https://i.imgur.com/TTmPnlG.png) [구인.01](https://www.wanted.co.kr/company/83ea37d1d80def955f946681eb433627c4f61ee9) [블로그](https://blog.naver.com/cnt-00243/222520786273) [P.백완 대표](https://i.imgur.com/1i2pU1O.jpeg)
 			- [P.Star SR-20RIV Type B](https://i.imgur.com/zCMyPRg.jpeg) [Web.](https://starcnc.com/product/sr-20riv-type-b/) [USD 138,000](https://www.machinetools.com/en/for-sale/468559-star-sr-20riv-slash-b-swiss-type-automatic-screw-machines?utm_source=perplexity)
@@ -170,6 +181,7 @@
 		- MIS [Y.Ti Base](https://youtu.be/my55dvF5SIU) 
 			- [Y.Ti base Implant Drsign with ExoCAD](https://youtu.be/0MVNtL3pGww) 
 - 국내 임플란트 제조사
+	- 
 	- 브랜드 비교 [Y.미심치](https://youtu.be/3xYYx8VwX4o) [Y.최승원](https://youtu.be/GHsft8RbyJQ)
 	- 오스템
 		- [뉴스워커 24.10.21](https://www.newsworker.co.kr/news/articleView.html?idxno=352342)- # 촘촘해지는 판매 그물망
@@ -255,11 +267,12 @@
 	- Volume-based procurement
 		- [Dental Tribune](https://www.dental-tribune.com/news/impact-of-chinas-volume-based-procurement-on-the-asia-pacific-dental-implant-market/)
 		- [P.](https://www.perplexity.ai/search/volume-based-procurement-yimi-32G1ki0JScazRKPLdiyQVg)
-
-후원 커스텀  기계 6대
-
-
-
+- 경쟁사
+	- 후원이디아이 [H.](http://www.who1edi.com/kor/main/main.html) [잡코.](https://m.jobkorea.co.kr/Recruit/Co_Read/C/who1edi)  
+		- 커스텀  기계 6대
+	- 아름덴티스트리 [H.](https://arumdentistry.com/kor/m/)  
+		- 밀링머쉰 베이스
+- 
 
 
 ---
