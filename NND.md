@@ -1,7 +1,7 @@
 ## To do
 - NND ==사업계획서 PPT== 
 	- 경영과 영업을 위한 기본 중에 기본 > 지속적인 업데이트
-	- 직성과정에서 체계적 정보를 정리하게 됨
+	- 작성과정에서 체계적 정보를 정리하게 됨
 		- BI & CI 재정립
 			- 브랜드 전략 > 디자인&컬러 아이덴터티
 		- 시장상황
@@ -185,6 +185,7 @@
 		- 커스텀 50-80개 (추가장비 필요)
 		- 기성 500-600개
 -  [Financial Status](https://www.jobkorea.co.kr/Recruit/Co_Read/C/25262792?Oem_Code=C1)
+
 ## NND 개발
 - Fixture
 	- Internal Bone 주력?
