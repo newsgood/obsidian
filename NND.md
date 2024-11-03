@@ -20,6 +20,11 @@
 			- 매출계획 & 재무계획
 			- 인력계획 & 장비도입계획 
 	- ==홈페이지== (전자주문 시스템과 별개)
+		- 오디언스(독자=주고객)가 누구인가?에 따른 이미지
+			- 임플란트사(OEM발주처)
+			- 치기공소
+			- 환자 
+			- 한국어 / 영어 / 기타언어
 		- 인쇄 카탈로그보다 중요
 			- 치기공사/해외바이어 얼마나 사무실/공장을 방문하겠는가?
 			- 온라인상에서 크고 멋진 회사로 보여야 한다
@@ -28,6 +33,13 @@
 		- 현재 웹개발사?
 			- 개발비? 워드프레스?
 			- 프레임워크 무엇?
+		- 경쟁사 & 동종업계 홈페이지 분석
+			- 오스템
+			- 후원
+				- 
+			- 나노덴의 결정
+				- 정밀성에 초점
+				- 미래 비지니스 비전 제시
 	- 커뮤니케이션
 		- 멀티허브 경영 - 국내 / 해외
 			- 노마드 영업사원
@@ -35,6 +47,9 @@
 		- Tools
 			- Discord 추천 (카톡은 개인용으로)
 			- 칠판 (다자간)음성회의는  Discord + 삼성 공유노트 
+	- 이벤트 참가
+		- 치기공 관련
+			- 치기공 네트워크를 최우선
 - Questions...
 	- 리버스 지그? [P.](https://i.imgur.com/uOHHa77.jpeg)
 	- 환봉 Custom과의 차별필요 > 용어가 중요
@@ -129,7 +144,7 @@
 			-  Download [Shinning3D](https://support.shining3ddental.com/en/support/solutions/articles/60000755552-download-exocad-dentalcad)
 		- [후보 Cyfex](https://www.cyfex.com/en)
 			- Secret Ear Design
-	- Miller & CNC [GPT.10개추천](https://chatgpt.com/share/671e61ae-af40-8005-8398-0e5cbc7151fc)
+	- Miller & CNC [GPT.10개추천](https://chatgpt.com/share/671e61ae-af40-8005-8398-0e5cbc7151fc) #Miller
 		- 속도 차이?
 		- 한국씨엔텍 [Y.](https://youtu.be/p54rzGg42RE) [홈.](http://hkcntech.com/?act=common.event_popup_view&seq=11) #CNC 
 			- [학술회](https://i.imgur.com/TTmPnlG.png) [구인.01](https://www.wanted.co.kr/company/83ea37d1d80def955f946681eb433627c4f61ee9) [블로그](https://blog.naver.com/cnt-00243/222520786273) [P.백완 대표](https://i.imgur.com/1i2pU1O.jpeg)
@@ -143,7 +158,9 @@
 		- Manix Dental
 			- 밀러 [Y.](https://youtu.be/9FgYPPWti_Q)  [Y.kr](https://youtu.be/iSEjoEtxTvQ) [홈.](http://www.manix.co.kr/new/index.php)
 		-  아름덴티스트리 [Arum](https://youtube.com/@arumdentistry) [사람인.재무](https://www.saramin.co.kr/zf_user/company-info/view-inner-finance?csn=aVRMVnNVSFdoVkx4NlZsdjgzSVlUUT09) [Y.01](https://youtu.be/SRVc-_Ded7c) [Y.Eng](https://youtu.be/LBk4DSl6fQ8)
-	- 중국산
+		- 오스템 OneMill 5X [Y.](https://youtu.be/xmGLTXzj8C8)
+	- Scanner 
+		- [Prime Y.치과가기좋은날](https://youtu.be/3d8oieaQE9E) [Y.미니쉬리즈](https://youtu.be/qOKkoXcvvpA)
 - 치기공소 연구
 	- [[지플란트]] / [H.](http://www.zplantlab.com/)
 	- 웰컴기공소 부산 #3Shape 
@@ -156,7 +173,7 @@
 		- 직원 
 			- 9명 (10명) / 3명 생산라인 < 기계 1대에?
 		- 장비
-			- CNC
+			- Star
 	- 계획
 		- 장비 1대 생산력 (현재 1대 운영중)
 			- 커스텀 50-80개 (추가장비 필요)
@@ -172,8 +189,6 @@
 - 국내 마케팅
 	- 치기공소 리스트
 		- [행정안전부 공공데이터포털](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%B9%98%EA%B3%BC%EA%B8%B0%EA%B3%B5%EC%86%8C&operator=AND&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=&pblonsipScopeCode=)
-	- Custom Abutment 차별화
-		- 아노다이징? (Red, Pink) #Anodizing 
 - US-FDA 승인전략 #FDA 
 	- [Y.분당서울대병원 강의](https://youtube.com/watch?v=YP222t6tE8k)
 - 해외 임플란트 제조사
@@ -188,7 +203,6 @@
 		- MIS [Y.Ti Base](https://youtu.be/my55dvF5SIU) 
 			- [Y.Ti base Implant Drsign with ExoCAD](https://youtu.be/0MVNtL3pGww) 
 - 국내 임플란트 제조사
-	- 
 	- 브랜드 비교 [Y.미심치](https://youtu.be/3xYYx8VwX4o) [Y.최승원](https://youtu.be/GHsft8RbyJQ)
 	- 오스템
 		- [뉴스워커 24.10.21](https://www.newsworker.co.kr/news/articleView.html?idxno=352342)- # 촘촘해지는 판매 그물망
@@ -202,6 +216,7 @@
 		- YK Link [Y.](https://youtu.be/70nMDpUfKWw) 
 	- 코웰메디
 		- SFIT [Y.](https://youtu.be/n0J9fsub_Fo) [Y.02](https://youtu.be/n0J9fsub_Fo?t=50m53s) [Per.](https://www.perplexity.ai/search/kowel-impeulranteuyi-s-fiteun-9YiJ8MP3Sb6GIFi8giHXXw)
+	- 예스 임플란트 [H.](http://yes-implant.co.kr/ko/catal/)
 - Worldwide 시장
 	- Top 3 [iData Research](https://idataresearch.com/top-3-market-share-leaders-in-the-global-dental-implant-market/)
 	- [SkyQuestt](https://www.skyquestt.com/report/dental-implants-market)
@@ -275,12 +290,18 @@
 		- [Dental Tribune](https://www.dental-tribune.com/news/impact-of-chinas-volume-based-procurement-on-the-asia-pacific-dental-implant-market/)
 		- [P.](https://www.perplexity.ai/search/volume-based-procurement-yimi-32G1ki0JScazRKPLdiyQVg)
 		- 국내 기업에게 전화위복
-- 경쟁사
+- 가까운 경쟁사
 	- 후원이디아이 [H.](http://www.who1edi.com/kor/main/main.html) [잡코.](https://m.jobkorea.co.kr/Recruit/Co_Read/C/who1edi)  
 		- 커스텀  기계 6대
-	- 아름덴티스트리 [H.](https://arumdentistry.com/kor/m/)  
+		- Fixture 제품
+		- 홈페이지 CMS 사용 안한것으로 보임
+	- 아름덴티스트리 [H.](https://arumdentistry.com/kor/m/)  #Arum
 		- 밀링머쉰 베이스
-- 
+		- ApexMill S/W
+		- Fixture 제품
+- X.Etc
+	- 3D Metal Dental Printing [Y.](https://youtu.be/MzBx0Hv4FTM)
+	- 
 
 
 ---
